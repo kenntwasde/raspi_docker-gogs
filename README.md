@@ -1,5 +1,6 @@
 docker-gogs
 ===========
+* Experimental, don't sue it yet!!!
 
 Dockerfile for [gogs](http://gogs.io) server(a self-hosted git service).
 
